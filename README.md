@@ -1,4 +1,4 @@
-# CypressAutoT
+# CypressAutoTests
 
 
 Автотесты по проверке функционала сайтов https://login.qa.studio/ и https://pokemonbattle.ru/
